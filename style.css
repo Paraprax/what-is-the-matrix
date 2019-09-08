@@ -1,0 +1,10 @@
+body {
+    color: lime;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace
+}
+
+button {
+    color: lime;
+    background-color: darkslategrey;
+}
